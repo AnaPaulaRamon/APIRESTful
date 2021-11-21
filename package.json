@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaPaulaRamon/APIRESTful.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaPaulaRamon/APIRESTful/issues"
+  },
+  "homepage": "https://github.com/AnaPaulaRamon/APIRESTful#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
